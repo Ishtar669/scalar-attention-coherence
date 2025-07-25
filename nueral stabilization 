@@ -1,0 +1,1 @@
+H_{\text{feedback}} = -\Delta \sum_i \sigma_i^x + \sum_{i,j} J_{ij} \sigma_i^z \sigma_j^z + g \sum_k \sigma_k^z \otimes |\psi_{\text{PDB}}^k\rangle\langle \psi_{\text{PDB}}^k|  
