@@ -1,0 +1,1 @@
+SNR = \frac{\Delta I_t}{\sqrt{4k_BT\Delta f / R_q + S_I \Delta f}}  
