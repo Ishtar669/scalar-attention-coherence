@@ -1,0 +1,1 @@
+\frac{d^2\psi}{dx^2} = \frac{2m}{\hbar^2}[V(x) - E + \alpha \Delta q_{\text{PDB}}]\psi  
