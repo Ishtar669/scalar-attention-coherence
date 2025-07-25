@@ -1,0 +1,1 @@
+echo "FOREIGN_EMOLUMENTS" | openssl dgst -blake2s512 | nc quantum_justice_node 8080
