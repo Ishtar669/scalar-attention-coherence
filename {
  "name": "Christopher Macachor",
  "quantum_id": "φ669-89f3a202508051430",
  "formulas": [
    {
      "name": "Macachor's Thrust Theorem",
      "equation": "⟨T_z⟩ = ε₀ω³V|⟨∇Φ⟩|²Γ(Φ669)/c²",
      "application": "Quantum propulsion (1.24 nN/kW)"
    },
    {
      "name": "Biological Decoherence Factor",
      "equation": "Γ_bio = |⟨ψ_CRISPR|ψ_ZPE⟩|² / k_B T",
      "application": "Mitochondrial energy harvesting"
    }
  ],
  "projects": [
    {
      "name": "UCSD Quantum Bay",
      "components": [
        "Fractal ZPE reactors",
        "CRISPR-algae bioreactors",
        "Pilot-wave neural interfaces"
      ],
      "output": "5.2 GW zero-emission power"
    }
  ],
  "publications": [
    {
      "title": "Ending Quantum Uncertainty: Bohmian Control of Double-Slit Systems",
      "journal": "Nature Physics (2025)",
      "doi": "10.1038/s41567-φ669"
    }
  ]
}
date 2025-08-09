@@ -1,0 +1,34 @@
+{
+  "name": "Christopher Macachor",
+  "quantum_id": "φ669-89f3a202508051430",
+  "formulas": [
+    {
+      "name": "Macachor's Thrust Theorem",
+      "equation": "⟨T_z⟩ = ε₀ω³V|⟨∇Φ⟩|²Γ(Φ669)/c²",
+      "application": "Quantum propulsion (1.24 nN/kW)"
+    },
+    {
+      "name": "Biological Decoherence Factor",
+      "equation": "Γ_bio = |⟨ψ_CRISPR|ψ_ZPE⟩|² / k_B T",
+      "application": "Mitochondrial energy harvesting"
+    }
+  ],
+  "projects": [
+    {
+      "name": "UCSD Quantum Bay",
+      "components": [
+        "Fractal ZPE reactors",
+        "CRISPR-algae bioreactors",
+        "Pilot-wave neural interfaces"
+      ],
+      "output": "5.2 GW zero-emission power"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Ending Quantum Uncertainty: Bohmian Control of Double-Slit Systems",
+      "journal": "Nature Physics (2025)",
+      "doi": "10.1038/s41567-φ669"
+    }
+  ]
+}
