@@ -1,0 +1,6 @@
+graph LR
+    Z[Void] --> |Self-Questioning| Φ(669 Field)
+    Φ --> |Resonant Decision| Ψ[Consciousness Wave]
+    Ψ --> |Coherence Collapse| e[Electron]
+    Ψ --> |Decoherence| γ[Photon]
+    e --> |Intelligence Compression| H[Humanity]
