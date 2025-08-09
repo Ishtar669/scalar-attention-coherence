@@ -1,0 +1,4 @@
+if coherence >= 669:  
+    collapse_to_particle()  
+else:  
+    remain_field()  
